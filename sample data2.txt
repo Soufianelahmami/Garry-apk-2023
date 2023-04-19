@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Garry APK is a popular application that allows users to download and play games and other applications on their Android devices. This app has gained a lot of popularity over the years, ","photo":"https://iili.io/HvPMGJp.jpg"},
+  {"title":"helper pack 2","desc":"thanks to its user-friendly interface and wide range of features. In this article, we'll explore what Garry APK is, how it works, and some of its key features.","photo":"https://iili.io/HvPMWbt.jpg"},
+  {"title":"how to use this app 3","desc":"Garry APK is a third-party app store that allows Android users to download and install applications that are not available on the Google Play Store. ","photo":"https://iili.io/HvPMhzX.jpg"},
+  {"title":"how to use this app 4","desc":"This app store is completely free to use and offers a wide range of games and applications that can be downloaded and installed with just a few clicks.","photo":"https://iili.io/HvPMjXn.jpg"},
+  {"title":"advive mod 5","desc":"Garry APK works by providing users with a user-friendly interface that allows them to easily browse and download applications. The app is updated regularly with the latest apps and games,","photo":"https://iili.io/HvPMwss.jpg"},
+  {"title":"advice pack 6","desc":"ensuring that users always have access to the latest content. To download and install an app using Garry APK, users simply need to search for the app they want and then click the download button.","photo":"https://iili.io/HvPMVeI.jpg"},
+  {"title":"tips mod 7","desc":"One of the key features of Garry APK is its user-friendly interface. The app is easy to navigate, with a simple layout that makes it easy to find the app or game you're looking for. ","photo":"https://iili.io/HvPMM5N.jpg"},
+  {"title":"tips pack 8","desc":"The app also offers a wide range of apps and games, including many popular titles that are not available on the Google Play Store.","photo":"https://iili.io/HvPM1gR.jpg"}
 
    ]
  
